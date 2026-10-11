@@ -1,0 +1,15 @@
+# Environment & Secrets
+.env
+.env.*.local
+*.pem
+*.key
+*.cert
+
+# OS Metadata
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary & Cache
+tmp/
+*.tmp
